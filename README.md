@@ -1,3 +1,5 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" ></p>
+
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Moulya A S</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBEDF2&center=true&vCenter=true&width=450&lines=Computer+Science+Engineer;Cyber+Security+Enthusiast;AI+-+ML+Engineer;" alt="Typing SVG" />
@@ -47,4 +49,6 @@
 | -- | -- |
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+</p>
