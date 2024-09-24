@@ -6,11 +6,8 @@
   <p align="center">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMoulyaAS%2FMoulyaAS&label=VISITORS&labelColor=%23000&countColor=%230A0209" /></p>
   <p align="center">
-
-<br>Computer Science and Engineering  |  Global Academy of Technology</h3></p>
-
-<p align="left">Aspiring Computer Science Engineer | Undergraduate | Passion for Coding & Innovation 🖥️ | Future Tech Trailblazer</p>
-
+    Computer Science and Engineering | Global Academy of Technology</h3>
+    </p>
 <hr />
 <p align="center">
   <a href="https://www.linkedin.com/in/moulya-a-s-05b179290/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Moulya" /></a>
@@ -24,7 +21,8 @@
 <h1 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-# Skills  
+# Skills <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png " width=35>
+
 
 | Category        | Skills        |
 |-----------------|---------------|
