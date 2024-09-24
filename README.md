@@ -3,8 +3,8 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Moulya A S</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBEDF2&center=true&vCenter=true&width=450&lines=Computer+Science+Engineer;Cyber+Security+Enthusiast;AI+-+ML+Engineer;" alt="Typing SVG" />
-  <p align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMoulyaAS%2FMoulyaAS&label=VISITORS&labelColor=%23000&countColor=%230A0209" /></p>
+  <p align="center"><img src="https://api.visitorbadge.io/api/VisitorHit?user=MoulyaAS&repo=github-visitors-badge&countColor=%237B1E7A" />
+</p>
   <p align="center">
     Computer Science and Engineering | Global Academy of Technology</h3>
     </p>
